@@ -1,3 +1,6 @@
 [submodule "Book_Management_System"]
 	path = Book_Management_System
 	url = https://github.com/Setujha90/Hibernate_Assignment_05-03-2026
+[submodule "Student_Management"]
+	path = Student_Management
+	url = https://github.com/Setujha90/jdbc_test
