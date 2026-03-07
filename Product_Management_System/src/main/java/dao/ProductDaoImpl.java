@@ -19,9 +19,7 @@ public class ProductDaoImpl implements ProductDao{
 	    EntityManagerFactory emf =
 	    Persistence.createEntityManagerFactory("Product_Management_System");
 
-	    EntityManager em = emf.createEntityManager();
-
-	    EntityTransaction et = em.getTransaction();
+	   
 
 	    @Override
 	    public void addProduct() {
